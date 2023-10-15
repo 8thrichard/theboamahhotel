@@ -61,7 +61,7 @@ header .homepage_logo a {
     justify-content: center;
     position: relative;
     top: 180px;
-    opacity: 0.8;
+    opacity: 0.6;
     transition: 0.3s;
 }
 
@@ -116,6 +116,26 @@ button:hover {
 
 
 /*SECTIONS AND CONTENTS*/
+.belowhero {
+    color: white; 
+    background-color: #205E5C;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.belowhero h2{
+    font-size: 3em;
+    margin-bottom: 0;
+    text-transform: uppercase;
+
+}
+
+.belowhero p {
+    font-size: 20px;
+}
+
 section { 
     display: flex;
     align-items: center;
