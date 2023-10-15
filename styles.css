@@ -137,7 +137,7 @@ figure img {
     width: 300px; 
     height: 300px; 
     border-radius: 50%;
-    border: 20px solid #555; 
+    border: 1px solid #92705B; 
     margin-bottom: 10px; 
     box-shadow: 0 0 10px rgba(0,0,0,.6);
     transition: 0.4s;
