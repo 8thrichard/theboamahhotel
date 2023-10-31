@@ -22,8 +22,6 @@ nav {
 }
 
 
-
-
 ul {
     list-style-type: none;
     display: flex;
@@ -156,7 +154,6 @@ section {
     display: flex;
     align-items: center;
     background-color: #205E5C;
-    height: 500px;
     overflow: hidden;
 }
 
