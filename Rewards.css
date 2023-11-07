@@ -1,0 +1,24 @@
+.text {
+    position: relative;
+    left: 25px;
+}
+
+
+
+
+
+
+/* This holds the card for better presentation */
+#card-wrapper {
+    color: blue;
+    float:right;
+    height: 500px;
+    width: 300px;
+    background-color: white;
+    position: relative;
+    top: -330px;
+    right: 500px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5)
+}
+
