@@ -1,19 +1,19 @@
 body{
-    background-color: white ;
-    height: 100vh;
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    height: 100vh; /* Set the height of the body to 100% of the viewport height */
+    background-image: url('/images/Shopbackground.jpg'); /* Replace 'your-image.jpg' with the actual path to your image */
+    background-size: cover; /* Ensure the background image covers the entire container */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Prevent the background image from repeating */
 }
 
 .text {
-    position: relative;
-    left: 25px;
+    margin-left: 100px;
 }
 
 
-.creditcard img {
-    width: 450px;
-    margin: 15px;
-    position: relative;
-    top: -430px;
-    right: -950px;
+h1 { 
+    font-size: 3em;
 }
 
