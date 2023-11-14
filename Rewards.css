@@ -1,3 +1,8 @@
+body{
+    background-color: white ;
+    height: 100vh;
+}
+
 .text {
     position: relative;
     left: 25px;
@@ -5,10 +10,10 @@
 
 
 .creditcard img {
-    width: 400px;
-    margin: 30px;
+    width: 450px;
+    margin: 15px;
     position: relative;
-    float: right;
-    top: -400px;
+    top: -430px;
+    right: -950px;
 }
 
