@@ -1,11 +1,11 @@
 body{
-    margin: 0; /* Remove default margin */
-    padding: 0; /* Remove default padding */
-    height: 100vh; /* Set the height of the body to 100% of the viewport height */
-    background-image: url('/images/Shopbackground.jpg'); /* Replace 'your-image.jpg' with the actual path to your image */
-    background-size: cover; /* Ensure the background image covers the entire container */
-    background-position: center; /* Center the background image */
-    background-repeat: no-repeat; /* Prevent the background image from repeating */
+    margin: 0;
+    padding: 0; 
+    height: 100vh; 
+    background-image: url('images/Shopbackground.jpg'); 
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat; 
 }
 
 .text {
