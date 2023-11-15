@@ -47,15 +47,32 @@ ul a { text-decoration: none;
 
 
 nav ul a:hover {  
-    text-decoration:underline  white;
+    background-color: green;
+    text-decoration: none;
+    color: #ffffff;
+    transition: color 0.3s, background-color 0.3s; 
+}
+
+/* The Active State of the Nav Bar */
+.active {
+    background-color: green;
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none; 
+    transition: color 0.3s, background-color 0.3s; 
+    padding: 10px 20px; 
+    border-radius: 25px; 
 }
 
 
-header .homepage_logo a {
+header .homepage_logo h3 {
     display: inline-block;
     height: 55px;
     font-size: 45px;
     font-weight: 600;
+    margin: 1px;
+    color: #ffffff;
 }
 
 .hero-message {
