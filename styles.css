@@ -218,3 +218,17 @@ figure img:hover {
 
 
 /*ROOM PASSPORT*/
+
+
+.imagepassport {
+    width: 100%;
+}
+
+footer {
+    background-color: #205E5C;
+}
+
+footer p { 
+    color: white;
+    text-align: center;
+}
