@@ -10,6 +10,8 @@ body{
 
 .text {
     margin-left: 100px;
+    position: relative;
+    top: -93px;
 }
 
 
