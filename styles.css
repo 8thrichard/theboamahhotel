@@ -186,9 +186,11 @@ section {
     display: flex;
     justify-content: space-between;
 }
-  
+
 figure {
     text-align: center;
+    max-width: 300px;
+    max-height: 500px;
 }
 
 figure img {
@@ -198,7 +200,7 @@ figure img {
     border: 1px solid #92705B; 
     margin-bottom: 10px; 
     box-shadow: 0 0 10px rgba(0,0,0,.6);
-    transition: 0.4s;
+    transition: 1s;
 }
 
 
