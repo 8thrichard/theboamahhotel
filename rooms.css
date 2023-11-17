@@ -9,6 +9,9 @@
     scale: 0.95;
 }
 
+.container-opp {    
+    flex-direction: row;}
+
 .image-container {
     width: 70%;
     position: relative;
