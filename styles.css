@@ -228,7 +228,7 @@ figure img:hover {
 
 
 .creditcardmark{
-    background-image: url(/images/ShopbackgroundLandscape.jpg);
+    background-image: url(images/ShopbackgroundLandscape.jpg);
     background-position: center 55%; 
     background-repeat: no-repeat;
     position: relative;
