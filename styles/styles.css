@@ -10,7 +10,7 @@ body { padding: 0;
     margin: 0;}
 
 header {
-    background-image: url(/images/homepage.jpg);
+    background-image: url(images/homepage.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100%;
