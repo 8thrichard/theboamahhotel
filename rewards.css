@@ -1,0 +1,35 @@
+.maincontent {
+background: rgba( 32, 94, 92, 0.35);
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 6px );
+-webkit-backdrop-filter: blur( 6px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+display: block;
+width: 500px; 
+text-align: center;
+margin-left:-80px;
+position: absolute;
+top: 50%; 
+left: 55%;
+transform: translate(-50%, -50%);
+scale: 1.1;
+}
+
+
+h3 {
+color: white;
+font-size: 30px; 
+margin-bottom: 5px;
+}
+
+.signup {
+    background-color: transparent;
+    border: 0.5px solid white;
+    color: white;
+}
+
+.signup:hover { 
+background-color: white;
+color: black;
+}
