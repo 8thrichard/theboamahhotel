@@ -17,7 +17,7 @@
 .container-opp {    
     flex-direction: row;}
 
-.image-container {
+.image-container-room {
     width: 70%;
     position: relative;
     overflow: hidden;
