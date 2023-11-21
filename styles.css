@@ -338,10 +338,13 @@ footer {
     text-align: center;
     font-weight: bolder;
     background-color: #205E5C;
-    margin-top: 10px;
 }
 
-
+footer p {
+    color: white;
+    text-align: center;
+    margin: 0;
+}
 
 /* Responsiveness */
 /* xs */
@@ -368,6 +371,7 @@ footer {
     .roomdesright {
         margin-top: 40px;  
     }
+
 } 
 
 /* xxl */
