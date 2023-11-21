@@ -220,13 +220,46 @@ figure img:hover {
 
 
 /*ROOM PASSPORT*/
+.roomimage{
+width: 70%; 
+float: left;
+position: relative;
+}
 
+.roomimage-rw{
+    display: flex; 
+    flex-direction: row-reverse;
+}
 
 .imagepassport {
     width: 100%;
 }
 
 
+.roomdes{
+    width: 30%; 
+    position:
+    relative; box-sizing:
+    border-box; margin-top:80px;
+    padding-left: 80px; 
+}
+
+.roomdesright {
+    width: 30%; 
+    float: right; 
+    position: relative; 
+    box-sizing: border-box; 
+    margin-top:80px;
+    padding-left: 80px;
+}
+
+.roomdes-left{
+    width: 30%; 
+    float: left;
+    position: relative;
+    left: 100px;
+    top: 80px;
+}
 .creditcardmark{
     background-image: url(images/ShopbackgroundLandscape.jpg);
     background-position: center 55%; 
@@ -235,6 +268,7 @@ figure img:hover {
     width: 100%; 
     height: 700px; 
     overflow: hidden;
+    top: 10px;
 } 
 
 .text {
@@ -246,6 +280,55 @@ figure img:hover {
 .text p{ 
     font-weight: 550;}
 
+
+/* Food image passport */
+.meals-wrapper {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin: auto;
+    overflow-x: auto;
+    justify-content: center;
+}
+
+.food-container {
+    margin: 0;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    overflow: hidden;
+    width: 300px;
+    flex-grow: 0;
+}
+
+.image-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 230px; 
+    overflow: hidden;
+}
+
+.image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+#mealbutton{
+    position: relative;
+    top: -27px;
+    left: 15px;
+}
+.text-container {
+    padding: 20px;
+}
+
+.text-container h3 {
+    margin: 0;
+}
 footer {
     background-color: #205E5C;
 }
@@ -254,3 +337,34 @@ footer p {
     color: white;
     text-align: center;
 }
+
+
+/* Responsiveness */
+/* xs */
+@media (max-width: 475px) {}
+/* sm */
+@media (max-width: 640px) {}
+/* md */
+@media (max-width: 768px) {}
+/* lg */
+@media (max-width: 1024px) {}
+/* xl */
+@media (max-width: 1280px) {}
+
+/* MAC AIR */
+@media (max-width: 1470px) and (min-width: 1400px) {
+    .roomdes {
+        margin-top: 40px;
+    }
+
+    .roomdes-left {
+        left: 19px;
+        top: 14px; }
+
+    .roomdesright {
+        margin-top: 40px;  
+    }
+} 
+
+/* xxl */
+@media (min-width: 1536px) {}
