@@ -317,7 +317,7 @@ position: relative;
     border-radius: 5px;
 }
 
-#mealbutton{
+.mealbutton{
     position: relative;
     top: -27px;
     left: 15px;
@@ -329,14 +329,18 @@ position: relative;
 .text-container h3 {
     margin: 0;
 }
+
+
+
 footer {
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-top: 150px; 
+    font-weight: bolder;
     background-color: #205E5C;
 }
 
-footer p { 
-    color: white;
-    text-align: center;
-}
 
 
 /* Responsiveness */

@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Charm:wght@400;700&display=swap');
+
+
+.dinehero {
+    font-size: 4em;
+    color: white;
+    margin: 20px;
+    text-align: center;
+}
+
+.dinehero span {
+    color: #d0ae2d;
+    font-family: Charm;
+    font-weight: bold;
+}
+
+.main-container {
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 1px );
+    -webkit-backdrop-filter: blur( 1px );
+    border-radius: 10px;
+    position: relative;
+    top: 200px;
+    max-width: auto;
+}
+
+.footer {
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-top: 204px; 
+    font-weight: bolder;
+}

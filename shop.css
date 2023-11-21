@@ -26,3 +26,11 @@ h1 {
 .active {
     background-color: green;
 }
+
+footer {
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-top: 150px; 
+    font-weight: bolder;
+}
