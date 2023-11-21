@@ -32,3 +32,41 @@
     margin-top: 204px; 
     font-weight: bolder;
 }
+
+
+
+
+/* Responsiveness */
+
+@media (max-width: 1470px) and (min-width: 1401px) {
+
+
+    .main-container {
+        top: 100px; 
+        max-width: 90%;
+        margin: auto; 
+    }
+
+    .footer {
+        margin-top: 20px; 
+    }
+
+    .dinehero {
+        font-size: 3em; 
+        margin: 10px;
+    }
+    
+    .dinehero span {
+        font-size: 1.2em; 
+    }
+
+
+    .food-container {
+        width: 30%; 
+        margin: 10px; 
+    }
+
+    .footer {
+        margin-top: 90px;
+    }
+}
