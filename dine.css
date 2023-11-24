@@ -14,6 +14,17 @@
     font-weight: bold;
 }
 
+
+#loader-container{
+    display: flex;
+    justify-content: center;
+}
+
+#loader{
+    width: 200px;
+    z-index: -12; 
+}
+
 .main-container {
     background: rgba( 255, 255, 255, 0.25 );
     box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
@@ -21,7 +32,7 @@
     -webkit-backdrop-filter: blur( 1px );
     border-radius: 10px;
     position: relative;
-    top: 200px;
+    top: 100px;
     max-width: auto;
 }
 
@@ -29,7 +40,7 @@
     color: white;
     padding: 20px;
     text-align: center;
-    margin-top: 204px; 
+    margin-top: 104px; 
     font-weight: bolder;
 }
 
