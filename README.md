@@ -4,7 +4,7 @@
 
 The goal of this website is to establish a strong online presence for the Beautiful Midwest Hotel. The website aims to attract visitors, encourage bookings, and enhance the overall customer experience. The primary objectives include successful deployment, increased sales, and customer satisfaction.
 
-[Live Demo Here]([URL](https://8thrichard.github.io/theboamahhotel/))
+[The Boamah Hotel :: Click Here for Live Demo ](https://8thrichard.github.io/theboamahhotel/)
 
 ## Pages
 
