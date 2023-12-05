@@ -4,6 +4,8 @@
 
 The goal of this website is to establish a strong online presence for the Beautiful Midwest Hotel. The website aims to attract visitors, encourage bookings, and enhance the overall customer experience. The primary objectives include successful deployment, increased sales, and customer satisfaction.
 
+[Live Demo Here]([URL](https://8thrichard.github.io/theboamahhotel/))
+
 ## Pages
 
 1. **Homepage**
@@ -34,7 +36,7 @@ The goal of this website is to establish a strong online presence for the Beauti
 - [Dribbble](https://dribbble.com/)
 - [Pexels](https://www.pexels.com/)
 
-## Tools Used
+## Skills and Tools
 
 - HTML
 - CSS
@@ -69,12 +71,6 @@ No frameworks were used in the development of this website.
 
 *Screenshot of the BMH Rewards Page*
 ![BMH Rewards](https://github.com/8thrichard/theboamahhotel/assets/118012295/af9299e9-a3ed-47d6-b46e-e160b5670081)
-
-## Skills
-![HTML](path/to/html_image.png)
-![CSS](path/to/css_image.png)
-![Figma](path/to/figma_image.png)
-![Photoshop](path/to/photoshop_image.png)
 
 
 Feel free to explore, contribute, and provide feedback!
